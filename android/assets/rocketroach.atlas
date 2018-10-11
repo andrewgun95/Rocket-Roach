@@ -1,0 +1,423 @@
+
+rocketroach.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background/background
+  rotate: false
+  xy: 4, 528
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+background/building-1
+  rotate: false
+  xy: 4, 75
+  size: 584, 449
+  orig: 584, 449
+  offset: 0, 0
+  index: -1
+background/building-2
+  rotate: false
+  xy: 1314, 609
+  size: 454, 399
+  orig: 454, 399
+  offset: 0, 0
+  index: -1
+background/building-3
+  rotate: false
+  xy: 808, 624
+  size: 502, 384
+  orig: 502, 384
+  offset: 0, 0
+  index: -1
+background/building-4
+  rotate: false
+  xy: 592, 150
+  size: 418, 374
+  orig: 418, 374
+  offset: 0, 0
+  index: -1
+background/shadow-1
+  rotate: false
+  xy: 1439, 42
+  size: 383, 250
+  orig: 383, 250
+  offset: 0, 0
+  index: -1
+background/shadow-2
+  rotate: false
+  xy: 1014, 302
+  size: 530, 303
+  orig: 530, 303
+  offset: 0, 0
+  index: -1
+background/shadow-3
+  rotate: false
+  xy: 1014, 4
+  size: 421, 294
+  orig: 421, 294
+  offset: 0, 0
+  index: -1
+background/shadow-4
+  rotate: false
+  xy: 1548, 296
+  size: 432, 309
+  orig: 432, 309
+  offset: 0, 0
+  index: -1
+background/star-1
+  rotate: false
+  xy: 1772, 908
+  size: 255, 100
+  orig: 255, 100
+  offset: 0, 0
+  index: -1
+background/star-2
+  rotate: false
+  xy: 1772, 804
+  size: 255, 100
+  orig: 255, 100
+  offset: 0, 0
+  index: -1
+background/star-3
+  rotate: false
+  xy: 1772, 700
+  size: 255, 100
+  orig: 255, 100
+  offset: 0, 0
+  index: -1
+background/star-4
+  rotate: false
+  xy: 592, 46
+  size: 255, 100
+  orig: 255, 100
+  offset: 0, 0
+  index: -1
+
+rocketroach2.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+character/chat-1
+  rotate: false
+  xy: 322, 172
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+character/chat-2
+  rotate: false
+  xy: 233, 172
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+character/cockroach
+  rotate: false
+  xy: 4, 19
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+character/cockroach-2
+  rotate: false
+  xy: 4, 113
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+character/dash-effect
+  rotate: false
+  xy: 109, 145
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+character/energy
+  rotate: false
+  xy: 4, 4
+  size: 51, 11
+  orig: 51, 11
+  offset: 0, 0
+  index: -1
+character/energy_bar
+  rotate: false
+  xy: 403, 218
+  size: 51, 11
+  orig: 51, 11
+  offset: 0, 0
+  index: -1
+character/fire-effect
+  rotate: false
+  xy: 109, 169
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+character/smoke
+  rotate: false
+  xy: 109, 117
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+
+rocketroach3.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+component/battery_blue-1
+  rotate: false
+  xy: 486, 448
+  size: 15, 50
+  orig: 15, 50
+  offset: 0, 0
+  index: -1
+component/battery_blue-2
+  rotate: false
+  xy: 455, 448
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+component/battery_yellow-1
+  rotate: false
+  xy: 337, 232
+  size: 15, 50
+  orig: 15, 50
+  offset: 0, 0
+  index: -1
+component/battery_yellow-2
+  rotate: false
+  xy: 337, 286
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+component/box
+  rotate: false
+  xy: 337, 438
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+component/coin
+  rotate: false
+  xy: 401, 448
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+component/cone
+  rotate: false
+  xy: 162, 52
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+component/heart_big
+  rotate: false
+  xy: 337, 340
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+component/road
+  rotate: false
+  xy: 162, 144
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+component/slipper
+  rotate: false
+  xy: 162, 110
+  size: 242, 30
+  orig: 242, 30
+  offset: 0, 0
+  index: -1
+component/strip
+  rotate: false
+  xy: 162, 97
+  size: 323, 9
+  orig: 323, 9
+  offset: 0, 0
+  index: -1
+component/wall
+  rotate: false
+  xy: 273, 198
+  size: 60, 300
+  orig: 60, 300
+  offset: 0, 0
+  index: -1
+component/warning
+  rotate: false
+  xy: 337, 384
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+component/windmill
+  rotate: false
+  xy: 4, 233
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+component/windmill-house
+  rotate: false
+  xy: 4, 4
+  size: 154, 225
+  orig: 154, 225
+  offset: 0, 0
+  index: -1
+
+rocketroach4.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ui/button-tap
+  rotate: false
+  xy: 1151, 349
+  size: 194, 31
+  orig: 194, 31
+  offset: 0, 0
+  index: -1
+ui/coin
+  rotate: false
+  xy: 1349, 350
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ui/empty_heart
+  rotate: false
+  xy: 808, 31
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+ui/heart
+  rotate: false
+  xy: 4, 4
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+ui/menu
+  rotate: false
+  xy: 808, 57
+  size: 229, 124
+  orig: 229, 124
+  offset: 0, 0
+  index: -1
+ui/mute-1
+  rotate: false
+  xy: 1041, 57
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ui/mute-2
+  rotate: false
+  xy: 1384, 384
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ui/option
+  rotate: false
+  xy: 1151, 384
+  size: 229, 124
+  orig: 229, 124
+  offset: 0, 0
+  index: -1
+ui/pause-1
+  rotate: false
+  xy: 1532, 458
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ui/pause-2
+  rotate: false
+  xy: 1225, 222
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ui/play-1
+  rotate: false
+  xy: 1041, 111
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+ui/play-2
+  rotate: false
+  xy: 1384, 438
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+ui/quit-1
+  rotate: false
+  xy: 1438, 384
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ui/quit-2
+  rotate: false
+  xy: 1586, 458
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ui/rate-1
+  rotate: false
+  xy: 1225, 276
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+ui/rate-2
+  rotate: false
+  xy: 1151, 275
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+ui/retry-1
+  rotate: false
+  xy: 1458, 438
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+ui/retry-2
+  rotate: false
+  xy: 1151, 201
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+ui/scoreboard
+  rotate: false
+  xy: 808, 185
+  size: 339, 323
+  orig: 339, 323
+  offset: 0, 0
+  index: -1
+ui/titlescreen
+  rotate: false
+  xy: 4, 28
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1

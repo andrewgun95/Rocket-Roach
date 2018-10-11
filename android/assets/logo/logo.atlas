@@ -1,0 +1,32 @@
+logo.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ilgames
+  rotate: false
+  xy: 0, 0
+  size: 271, 79
+  orig: 271, 79
+  offset: 0, 0
+  index: -1
+snail
+  rotate: false
+  xy: 0, 83
+  size: 240, 158
+  orig: 240, 158
+  offset: 0, 0
+  index: -1
+sta
+  rotate: false
+  xy: 244, 83
+  size: 100, 61
+  orig: 100, 61
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 275, 0
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
